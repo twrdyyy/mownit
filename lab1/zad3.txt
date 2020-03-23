@@ -1,0 +1,487 @@
+Zad3 
+Reimann 
+Forward: 
+Float(2, 50: 1.62513
+Double(2, 50: 1.62513
+wzgledny 1.84736e-07
+
+Float(2, 100: 1.63498
+Double(2, 100: 1.63498
+wzgledny 1.16234e-07
+
+Float(2, 200: 1.63995
+Double(2, 200: 1.63995
+wzgledny 1.53127e-07
+
+Float(2, 500: 1.64294
+Double(2, 500: 1.64294
+wzgledny 7.42277e-08
+
+Float(2, 1000: 1.64393
+Double(2, 1000: 1.64393
+wzgledny 2.79243e-07
+
+Float(3, 50: 1.20186
+Double(3, 50: 1.20186
+wzgledny 4.15287e-08
+
+Float(3, 100: 1.20201
+Double(3, 100: 1.20201
+wzgledny 1.22508e-08
+
+Float(3, 200: 1.20204
+Double(3, 200: 1.20204
+wzgledny 3.36132e-07
+
+Float(3, 500: 1.20205
+Double(3, 500: 1.20205
+wzgledny 4.22127e-06
+
+Float(3, 1000: 1.20205
+Double(3, 1000: 1.20206
+wzgledny 5.71778e-06
+
+Float(6667, 50: 1
+Double(6667, 50: 1
+wzgledny 0
+
+Float(6667, 100: 1
+Double(6667, 100: 1
+wzgledny 0
+
+Float(6667, 200: 1
+Double(6667, 200: 1
+wzgledny 0
+
+Float(6667, 500: 1
+Double(6667, 500: 1
+wzgledny 0
+
+Float(6667, 1000: 1
+Double(6667, 1000: 1
+wzgledny 0
+
+Float(5, 50: 1.03693
+Double(5, 50: 1.03693
+wzgledny 2.55093e-07
+
+Float(5, 100: 1.03693
+Double(5, 100: 1.03693
+wzgledny 2.91069e-07
+
+Float(5, 200: 1.03693
+Double(5, 200: 1.03693
+wzgledny 2.93365e-07
+
+Float(5, 500: 1.03693
+Double(5, 500: 1.03693
+wzgledny 2.93515e-07
+
+Float(5, 1000: 1.03693
+Double(5, 1000: 1.03693
+wzgledny 2.93519e-07
+
+Float(7.2, 50: 1.00723
+Double(7.2, 50: 1.00723
+wzgledny 8.24338e-09
+
+Float(7.2, 100: 1.00723
+Double(7.2, 100: 1.00723
+wzgledny 8.24775e-09
+
+Float(7.2, 200: 1.00723
+Double(7.2, 200: 1.00723
+wzgledny 8.24781e-09
+
+Float(7.2, 500: 1.00723
+Double(7.2, 500: 1.00723
+wzgledny 8.24781e-09
+
+Float(7.2, 1000: 1.00723
+Double(7.2, 1000: 1.00723
+wzgledny 8.24781e-09
+
+Float(10, 50: 1.00099
+Double(10, 50: 1.00099
+wzgledny 1.20251e-08
+
+Float(10, 100: 1.00099
+Double(10, 100: 1.00099
+wzgledny 1.20251e-08
+
+Float(10, 200: 1.00099
+Double(10, 200: 1.00099
+wzgledny 1.20251e-08
+
+Float(10, 500: 1.00099
+Double(10, 500: 1.00099
+wzgledny 1.20251e-08
+
+Float(10, 1000: 1.00099
+Double(10, 1000: 1.00099
+wzgledny 1.20251e-08
+
+Backward: 
+Float(2, 50: 1.62513
+Double(2, 50: 1.62513
+wzgledny 1.19209e-07
+
+Float(2, 100: 1.63498
+Double(2, 100: 1.63498
+wzgledny 0
+
+Float(2, 200: 1.63995
+Double(2, 200: 1.63995
+wzgledny 1.19209e-07
+
+Float(2, 500: 1.64294
+Double(2, 500: 1.64294
+wzgledny 1.19209e-07
+
+Float(2, 1000: 1.64393
+Double(2, 1000: 1.64393
+wzgledny 1.19209e-07
+
+Float(3, 50: 1.20186
+Double(3, 50: 1.20186
+wzgledny 0
+
+Float(3, 100: 1.20201
+Double(3, 100: 1.20201
+wzgledny 0
+
+Float(3, 200: 1.20204
+Double(3, 200: 1.20204
+wzgledny 0
+
+Float(3, 500: 1.20205
+Double(3, 500: 1.20205
+wzgledny 0
+
+Float(3, 1000: 1.20206
+Double(3, 1000: 1.20206
+wzgledny 0
+
+Float(6667, 50: 1
+Double(6667, 50: 1
+wzgledny 0
+
+Float(6667, 100: 1
+Double(6667, 100: 1
+wzgledny 0
+
+Float(6667, 200: 1
+Double(6667, 200: 1
+wzgledny 0
+
+Float(6667, 500: 1
+Double(6667, 500: 1
+wzgledny 0
+
+Float(6667, 1000: 1
+Double(6667, 1000: 1
+wzgledny 0
+
+Float(5, 50: 1.03693
+Double(5, 50: 1.03693
+wzgledny 0
+
+Float(5, 100: 1.03693
+Double(5, 100: 1.03693
+wzgledny 0
+
+Float(5, 200: 1.03693
+Double(5, 200: 1.03693
+wzgledny 0
+
+Float(5, 500: 1.03693
+Double(5, 500: 1.03693
+wzgledny 0
+
+Float(5, 1000: 1.03693
+Double(5, 1000: 1.03693
+wzgledny 0
+
+Float(7.2, 50: 1.00723
+Double(7.2, 50: 1.00723
+wzgledny 0
+
+Float(7.2, 100: 1.00723
+Double(7.2, 100: 1.00723
+wzgledny 0
+
+Float(7.2, 200: 1.00723
+Double(7.2, 200: 1.00723
+wzgledny 0
+
+Float(7.2, 500: 1.00723
+Double(7.2, 500: 1.00723
+wzgledny 0
+
+Float(7.2, 1000: 1.00723
+Double(7.2, 1000: 1.00723
+wzgledny 0
+
+Float(10, 50: 1.00099
+Double(10, 50: 1.00099
+wzgledny 0
+
+Float(10, 100: 1.00099
+Double(10, 100: 1.00099
+wzgledny 0
+
+Float(10, 200: 1.00099
+Double(10, 200: 1.00099
+wzgledny 0
+
+Float(10, 500: 1.00099
+Double(10, 500: 1.00099
+wzgledny 0
+
+Float(10, 1000: 1.00099
+Double(10, 1000: 1.00099
+wzgledny 0
+
+Dirichlet 
+Forward: 
+Float(2, 50: 0.822671
+Double(2, 50: 0.822671
+wzgledny 5.96046e-08
+
+Float(2, 100: 0.822518
+Double(2, 100: 0.822518
+wzgledny 0
+
+Float(2, 200: 0.82248
+Double(2, 200: 0.82248
+wzgledny 5.96046e-08
+
+Float(2, 500: 0.822469
+Double(2, 500: 0.822469
+wzgledny 2.98023e-07
+
+Float(2, 1000: 0.822468
+Double(2, 1000: 0.822468
+wzgledny 3.57628e-07
+
+Float(3, 50: 0.901547
+Double(3, 50: 0.901547
+wzgledny 0
+
+Float(3, 100: 0.901543
+Double(3, 100: 0.901543
+wzgledny 5.96046e-08
+
+Float(3, 200: 0.901543
+Double(3, 200: 0.901543
+wzgledny 0
+
+Float(3, 500: 0.901543
+Double(3, 500: 0.901543
+wzgledny 0
+
+Float(3, 1000: 0.901543
+Double(3, 1000: 0.901543
+wzgledny 0
+
+Float(6667, 50: 1
+Double(6667, 50: 1
+wzgledny 0
+
+Float(6667, 100: 1
+Double(6667, 100: 1
+wzgledny 0
+
+Float(6667, 200: 1
+Double(6667, 200: 1
+wzgledny 0
+
+Float(6667, 500: 1
+Double(6667, 500: 1
+wzgledny 0
+
+Float(6667, 1000: 1
+Double(6667, 1000: 1
+wzgledny 0
+
+Float(5, 50: 0.97212
+Double(5, 50: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 100: 0.97212
+Double(5, 100: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 200: 0.97212
+Double(5, 200: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 500: 0.97212
+Double(5, 500: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 1000: 0.97212
+Double(5, 1000: 0.97212
+wzgledny 5.96046e-08
+
+Float(7.2, 50: 0.993527
+Double(7.2, 50: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 100: 0.993527
+Double(7.2, 100: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 200: 0.993527
+Double(7.2, 200: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 500: 0.993527
+Double(7.2, 500: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 1000: 0.993527
+Double(7.2, 1000: 0.993527
+wzgledny 5.96046e-08
+
+Float(10, 50: 0.99904
+Double(10, 50: 0.99904
+wzgledny 0
+
+Float(10, 100: 0.99904
+Double(10, 100: 0.99904
+wzgledny 0
+
+Float(10, 200: 0.99904
+Double(10, 200: 0.99904
+wzgledny 0
+
+Float(10, 500: 0.99904
+Double(10, 500: 0.99904
+wzgledny 0
+
+Float(10, 1000: 0.99904
+Double(10, 1000: 0.99904
+wzgledny 0
+
+Backward: 
+Float(2, 50: 0.822271
+Double(2, 50: 0.822671
+wzgledny 0.000399947
+
+Float(2, 100: 0.822417
+Double(2, 100: 0.822518
+wzgledny 0.000100017
+
+Float(2, 200: 0.822455
+Double(2, 200: 0.82248
+wzgledny 2.50936e-05
+
+Float(2, 500: 0.822465
+Double(2, 500: 0.822469
+wzgledny 4.29153e-06
+
+Float(2, 1000: 0.822466
+Double(2, 1000: 0.822468
+wzgledny 1.37091e-06
+
+Float(3, 50: 0.901539
+Double(3, 50: 0.901547
+wzgledny 7.98702e-06
+
+Float(3, 100: 0.901542
+Double(3, 100: 0.901543
+wzgledny 1.07288e-06
+
+Float(3, 200: 0.901543
+Double(3, 200: 0.901543
+wzgledny 1.19209e-07
+
+Float(3, 500: 0.901543
+Double(3, 500: 0.901543
+wzgledny 0
+
+Float(3, 1000: 0.901543
+Double(3, 1000: 0.901543
+wzgledny 0
+
+Float(6667, 50: 1
+Double(6667, 50: 1
+wzgledny 0
+
+Float(6667, 100: 1
+Double(6667, 100: 1
+wzgledny 0
+
+Float(6667, 200: 1
+Double(6667, 200: 1
+wzgledny 0
+
+Float(6667, 500: 1
+Double(6667, 500: 1
+wzgledny 0
+
+Float(6667, 1000: 1
+Double(6667, 1000: 1
+wzgledny 0
+
+Float(5, 50: 0.97212
+Double(5, 50: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 100: 0.97212
+Double(5, 100: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 200: 0.97212
+Double(5, 200: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 500: 0.97212
+Double(5, 500: 0.97212
+wzgledny 5.96046e-08
+
+Float(5, 1000: 0.97212
+Double(5, 1000: 0.97212
+wzgledny 5.96046e-08
+
+Float(7.2, 50: 0.993527
+Double(7.2, 50: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 100: 0.993527
+Double(7.2, 100: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 200: 0.993527
+Double(7.2, 200: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 500: 0.993527
+Double(7.2, 500: 0.993527
+wzgledny 5.96046e-08
+
+Float(7.2, 1000: 0.993527
+Double(7.2, 1000: 0.993527
+wzgledny 5.96046e-08
+
+Float(10, 50: 0.99904
+Double(10, 50: 0.99904
+wzgledny 0
+
+Float(10, 100: 0.99904
+Double(10, 100: 0.99904
+wzgledny 0
+
+Float(10, 200: 0.99904
+Double(10, 200: 0.99904
+wzgledny 0
+
+Float(10, 500: 0.99904
+Double(10, 500: 0.99904
+wzgledny 0
+
+Float(10, 1000: 0.99904
+Double(10, 1000: 0.99904
+wzgledny 0
+
