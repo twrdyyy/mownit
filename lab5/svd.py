@@ -16,7 +16,7 @@ float_format = np.set_printoptions(
 
 echo_formatter = lambda x, y: f"echo \'{x}\' >> {y}"
 
-assert os.path.isfile("./sammy-kernane-qiyana.jpg")
+assert os.path.isfile("./image.jpg")
 IMG = Image.open("./image.jpg")
 I = np.array(IMG)
 
